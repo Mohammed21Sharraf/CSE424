@@ -1,14 +1,14 @@
 Link to unlisted YouTube video:
-...
+https://youtu.be/eFHN3yVmZ9Y  
 
 Public link to the slide (Anyone on the internet can view without login):
-...
+https://docs.google.com/presentation/d/1jae9Q5WZkHcKFIlgQ-IOzzYk0CBdQSpfkOq9bKb-rf8/edit?usp=sharing
 
 Paper title:
-...
+INTEGRATING OCULAR AND IRIS DESCRIPTORS FOR FAKE IRIS IMAGE DETECTION 
 
 Link to the paper:
-...
+https://ieeexplore.ieee.org/document/6914251
 
 Group Number:
 3
