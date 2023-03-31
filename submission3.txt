@@ -1,0 +1,31 @@
+
+Link to unlisted YouTube video:
+....
+
+Two public links to the Concept Map (anyone on the internet can view without login):
+PDF: 
+1. ....
+
+Native/original format: 
+https://drive.google.com/file/d/1hCKNR8U10tD0iYdXCdocDSX1gDJDSuX1/view?usp=sharing
+
+Name of the Book:
+Speech and Language Processing (3rd ed. draft)
+
+Chapter Name:
+Automatic Speech recognition 
+
+Link to the book:
+https://web.stanford.edu/~jurafsky/slp3/
+
+Link to the book chapter:
+https://web.stanford.edu/~jurafsky/slp3/16.pdf
+
+Group Number:
+03
+
+Group Members:
+20241020 KAZI ZUNAYED QUADER KNOBO
+20241018 MOHAMMED SHARRAF UDDIN
+20341010 AURCHI ROY
+23141076 MD. MONJUR E ELAHE
