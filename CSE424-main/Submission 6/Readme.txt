@@ -1,0 +1,17 @@
+Paper title:
+Deep Dive into Iris Texture-Based Ethnicity Classification: Approaches, Datasets and Performance
+
+Link to unlisted YouTube video:
+https://youtu.be/87X77mcIZu4 
+
+Overleaf link:
+https://www.overleaf.com/read/qmxcqdhjyfqc
+
+Group Number:
+3
+
+Group Members:
+20241020 KAZI ZUNAYED QUADER KNOBO
+20241018 MOHAMMED SHARRAF UDDIN
+20341010 AURCHI ROY
+23141076 MD. MONJUR E ELAHE
